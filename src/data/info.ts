@@ -154,7 +154,7 @@ export const info = {
     {
       title: "Odontoclinic",
       isFeatured: true,
-      thumbnail: "/assets/images/Odontoclinic.webp",
+      thumbnail: "assets/images/Odontoclinic.webp",
       githubUrl: "https://github.com/marmolejox/odontoclinic",
       liveUrl: "https://odontoclinic-ags.vercel.app/",
     },
