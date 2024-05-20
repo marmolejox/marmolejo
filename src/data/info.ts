@@ -132,6 +132,17 @@ export const info = {
     
   ],
 
+  extras: [
+    {
+      name: "Inglés",
+      icon: "/assets/images/svg/illustrator.svg"
+    },
+    {
+      name: "Angular",
+      icon: "/assets/images/svg/angular.svg"
+    },
+  ],
+
   socialMedia: {
     facebook: "https://www.facebook.com/eddiegmo",
     github: "https://github.com/marmolejox",
