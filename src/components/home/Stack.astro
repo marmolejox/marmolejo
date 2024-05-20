@@ -1,0 +1,23 @@
+---
+import { IHabilidades } from "@types";
+
+const { title, details } = Astro.props as IHabilidades;
+---
+
+<section class="flex flex-col sm:flex-row dark:text-light">
+  <h2 class="w-[15rem] mt-16">{title}</h2>
+  <div
+    class="w-full mt-16 grid grid-cols-1 sm:grid-cols-4 md:grid-cols-2 lg:grid-cols-4 gap-2"
+  >
+    {
+      details.map((item) => (
+        <div class="rounded-lg p-4 ml-2 bg-slate-100 dark:bg-[#202020] dark:text-light cursor-pointer">
+          <div class="flex justify-around items-center flex-wrap">
+            <img src={item.icon} class="w-6 h-6" />
+            <h3 class="text-xl">{item.name}</h3>
+          </div>
+        </div>
+      ))
+    }
+  </div>
+</section>
