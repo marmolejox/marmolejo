@@ -132,20 +132,6 @@ export const info = {
     
   ],
 
-  otros: [
-    {
-      name: "Inglés",
-      icon: "./assets/images/svg/illustrator.svg"
-    },
-    {
-      name: "Residencia",
-      icon: "./assets/images/svg/angular.svg"
-    },
-    {
-      name: "CV",
-      icon: "./assets/images/svg/angular.svg"
-    },
-  ],
 
   socialMedia: {
     facebook: "https://www.facebook.com/eddiegmo",
@@ -164,13 +150,13 @@ export const info = {
     },
     {
       title: "Rediseño - Seduzac",
-      isFeatured: false,
+      isFeatured: true,
       thumbnail: "./assets/images/Seduzac.webp",
       githubUrl: "https://github.com/marmolejox/seduzac",
     },
     {
       title: "Academy",
-      isFeatured: false,
+      isFeatured: true,
       thumbnail: "./assets/images/fazeacademy.webp",
       githubUrl: "https://github.com/marmolejox/timecapsule",
     },
