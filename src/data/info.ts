@@ -67,79 +67,83 @@ export const info = {
   habilidades: [
     {
       name: "Illustrator",
-      icon: "assets/images/svg/illustrator.svg"
+      icon: "./assets/images/svg/illustrator.svg"
     },
     {
       name: "Angular",
-      icon: "assets/images/svg/angular.svg"
+      icon: "./assets/images/svg/angular.svg"
     },
     {
       name: "Astro",
-      icon: "assets/images/svg/astro.svg"
+      icon: "./assets/images/svg/astro.svg"
     },
     {
       name: "Bootstrap",
-      icon: "assets/images/svg/bootstrap.svg"
+      icon: "./assets/images/svg/bootstrap.svg"
     },
     {
       name: "C",
-      icon: "assets/images/svg/c.svg"
+      icon: "./assets/images/svg/c.svg"
     },
     {
       name: "C++",
-      icon: "assets/images/svg/cpp.svg"
+      icon: "./assets/images/svg/cpp.svg"
     },
     {
       name: "Tailwind",
-      icon: "assets/images/svg/tailwind.svg"
+      icon: "./assets/images/svg/tailwind.svg"
     },
     {
       name: "HTML",
-      icon: "assets/images/svg/html.svg"
+      icon: "./assets/images/svg/html.svg"
     },
     {
       name: "Java",
-      icon: "assets/images/svg/java.svg"
+      icon: "./assets/images/svg/java.svg"
     },
     {
       name: "Javascript",
-      icon: "assets/images/svg/javascript.svg"
+      icon: "./assets/images/svg/javascript.svg"
     },
     {
       name: "Kotlin",
-      icon: "assets/images/svg/kotlin.svg"
+      icon: "./assets/images/svg/kotlin.svg"
     },
     {
       name: "MongoDB",
-      icon: "assets/images/svg/mongodb.svg"
+      icon: "./assets/images/svg/mongodb.svg"
     },
     {
       name: "MySQL",
-      icon: "assets/images/svg/mysql.svg"
+      icon: "./assets/images/svg/mysql.svg"
     },
     {
       name: "NodeJS",
-      icon: "assets/images/svg/nodejs.svg"
+      icon: "./assets/images/svg/nodejs.svg"
     },
     {
       name: "PHP",
-      icon: "assets/images/svg/php.svg"
+      icon: "./assets/images/svg/php.svg"
     },
     {
       name: "Python",
-      icon: "assets/images/svg/python.svg"
+      icon: "./assets/images/svg/python.svg"
     },
     
   ],
 
-  extras: [
+  otros: [
     {
       name: "Inglés",
-      icon: "/assets/images/svg/illustrator.svg"
+      icon: "./assets/images/svg/illustrator.svg"
     },
     {
-      name: "Angular",
-      icon: "/assets/images/svg/angular.svg"
+      name: "Residencia",
+      icon: "./assets/images/svg/angular.svg"
+    },
+    {
+      name: "CV",
+      icon: "./assets/images/svg/angular.svg"
     },
   ],
 
@@ -154,26 +158,26 @@ export const info = {
     {
       title: "Odontoclinic",
       isFeatured: true,
-      thumbnail: "assets/images/Odontoclinic.webp",
+      thumbnail: "./assets/images/Odontoclinic.webp",
       githubUrl: "https://github.com/marmolejox/odontoclinic",
       liveUrl: "https://odontoclinic-ags.vercel.app/",
     },
     {
       title: "Rediseño - Seduzac",
       isFeatured: false,
-      thumbnail: "assets/images/Seduzac.webp",
+      thumbnail: "./assets/images/Seduzac.webp",
       githubUrl: "https://github.com/marmolejox/seduzac",
     },
     {
       title: "Academy",
       isFeatured: false,
-      thumbnail: "assets/images/fazeacademy.webp",
+      thumbnail: "./assets/images/fazeacademy.webp",
       githubUrl: "https://github.com/marmolejox/timecapsule",
     },
     {
       title: "ML Scraper",
       isFeatured: true,
-      thumbnail: "assets/images/mlscraper.webp",
+      thumbnail: "./assets/images/mlscraper.webp",
       githubUrl: "https://github.com/marmolejox/mlscraper",
     },
   ],
