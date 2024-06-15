@@ -7,6 +7,21 @@ export const info = {
 
   experience: [
     {
+      name: "Nivo Industries",
+      job: "Desarrollador",
+      location: "Nochistlán de Mejía, Zacatecas.",
+      startDate: "Febrero 2024",
+      endDate: "Actualidad",
+      description: [
+        "✓ Desarrollo soluciones de software a medida utilizando Python y diferentes frameworks como Qt, Kivy y Tkinter.",
+        "✓ Programo y configuro arduinos y raspberrys para aplicaciones de control y automatización.",
+        "✓ Diseño interfaces gráficas de usuario (GUI) atractivas y funcionales, cumpliendo con los requisitos del proyecto y mejorando la experiencia del usuario final.",
+        "✓ Participé en el diseño y la planificación de una máquina de venta automatizada, contribuyendo con ideas innovadoras para la estructura, el flujo de trabajo y la interacción con el usuario.",
+        "✓ Colaboré estrechamente con equipos multidisciplinarios, demostrando habilidades de comunicación efectiva y trabajo en equipo para lograr los objetivos del proyecto.",
+      ],
+    },
+    
+    {
       name: "Criasts Development",
       job: "Desarrollador",
       location: "Aguascalientes, Aguascalientes",
