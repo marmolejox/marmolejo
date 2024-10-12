@@ -7,20 +7,6 @@ export const info = {
 
   experience: [
     {
-      name: "Nivo Industries",
-      job: "Desarrollador",
-      location: "Aguascalientes, México",
-      startDate: "Febrero 2024",
-      endDate: "Actualidad",
-      description: [
-        "✓ Desarrollo soluciones de software a medida utilizando Python y diferentes frameworks como Qt, Kivy y Tkinter.",
-        "✓ Programo y configuro arduinos y raspberrys para aplicaciones de control y automatización.",
-        "✓ Diseño interfaces gráficas de usuario (GUI) atractivas y funcionales, cumpliendo con los requisitos del proyecto y mejorando la experiencia del usuario final.",
-        "✓ Colaboré estrechamente con equipos multidisciplinarios, demostrando habilidades de comunicación efectiva y trabajo en equipo para lograr los objetivos del proyecto.",
-      ],
-    },
-    
-    {
       name: "Criasts Development",
       job: "Desarrollador",
       location: "Aguascalientes, Aguascalientes",
