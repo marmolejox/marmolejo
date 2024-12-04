@@ -21,19 +21,6 @@ export const info = {
     },
 
     {
-      name: "Freelance",
-      job: "Estudiante universitario",
-      location: "Aguascalientes, Aguascalientes",
-      startDate: "Agosto 2022",
-      endDate: "Mayo 2023",
-      description: [
-        "✓ Desarrollé páginas web para clientes, amigos y familia. Utilizando Figma, Wix, Webflow",
-        "✓ Mantenimiento y reparación a equipos de cómputo, tablets, celulares",
-        "✓ Instalación de software y hardware",
-      ],
-    },
-
-    {
       name: "Elefante Printshop",
       job: "Gerente",
       location: "Nochistlán, Zacatecas",
