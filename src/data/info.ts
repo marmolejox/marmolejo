@@ -2,37 +2,49 @@ export const info = {
   baseUrl: "https://google.com",
   name: "Eduardo Marmolejo",
   jobDescription: "Desarrollador",
-  about: `Ingeniero en Sistemas con 2 años de experiencia en desarrollo web, móvil y de escritorio. Conocimientos sólidos en C++, Java, Python, Angular y React. Experiencia en análisis de sistemas, diseño UX y metodologías ágiles. Apasionado por crear soluciones robustas y de excelente diseño. Objetivo de aprender nuevas tecnologías y emprender mi propia desarrolladora de software. Profesional comprometido, enfocado en resultados de alta calidad.
-  `,
+  about: `Egresado de la Ingeniería en Sistemas Computacionales enfocada en estructura de datos, bases de datos, lógica de programación, programación orientada a objetos y autodidactismo. Destaco por ser comprometido, creativo, eficaz y responsable.`,
 
   experience: [
     {
-      name: "Criasts Development",
-      job: "Desarrollador",
+      name: "Criast Development",
+      job: "Prácticas profesionales - Desarrollo web",
       location: "Aguascalientes, Aguascalientes",
       startDate: "Junio 2023",
       endDate: "Diciembre 2023",
       description: [
-        "✓ Desarrollé páginas web institucionales, blogs y gubernamentales utilizando Angular y WordPress, brindando soluciones escalables y de alto rendimiento.",
-        "✓ Implementé y administré bases de datos NoSQL eficientes con MongoDB para almacenar grandes volúmenes de datos extraídos mediante web scraping, como notas y noticias, utilizados posteriormente para desarrollar APIs internas.",
-        "✓ Lideré tareas de mantenimiento y monitoreo de servidores web, analizando el rendimiento e investigando incidencias para garantizar una operación continua y estable.",
-        "✓ Optimicé el rendimiento front-end mediante la migración de Bootstrap a Tailwind CSS, mejorando los tiempos de carga y la experiencia de usuario.",
-        "✓ Colaboré en un equipo de 6 desarrolladores, aplicando metodologías ágiles para cumplir con los plazos y requisitos del proyecto.",
+        "✓ Desarrollé páginas web con Angular v17, desde la investigación y creación de esquemas y prototipos",
+        "✓ Mantuve reuniones y juntas con los clientes para comprender requisitos y necesidades del proyecto",
+        "✓ Gestioné bases de datos con MongoDB v7.0 y Oracle DBS 23C, diseñándolas mejorándolas e implementándolas",
+        "✓ Desarrollé APIs con Java y JDK 21 en formato JSON",
+        "✓ Colaboré con un equipo de 5 desarrolladores aplicando metodologías ágiles como Scrum",
       ],
     },
 
     {
+      name: "Freelance",
+      job: "Estudiante universitario",
+      location: "Aguascalientes, Aguascalientes",
+      startDate: "Agosto 2022",
+      endDate: "Mayo 2023",
+      description: [
+        "✓ Desarrollé páginas web para clientes, amigos y familia. Utilizando Figma, Wix, Webflow",
+        "✓ Mantenimiento y reparación a equipos de cómputo, tablets, celulares",
+        "✓ Instalación de software y hardware",
+      ],
+    },
+  ],
+
+    
+    {
       name: "Elefante Printshop",
-      job: "Encargado General",
+      job: "Gerente",
       location: "Nochistlán, Zacatecas",
       startDate: "Enero 2017",
       endDate: "Agosto 2021",
       description: [
-        "✓ Optimicé los procesos de servicio implementando redes locales que permitían impresión remota desde equipos de clientes.",
-        "✓ Desarrollé sitios web personalizados en WordPress con funcionalidades para invitaciones digitales.",
-        "✓ Coordiné el control de inventario mediante software personalizado y automaticé procesos con scripts Bash.",
-        "✓ Realicé mantenimiento preventivo y correctivo periódico al equipo de cómputo y maquinaria.",
-        "✓ Supervisé y administré económicamente las operaciones diarias liderando a 4 empleados ayudantes.",
+        "✓ Diseñé, desarrollé y mantuve páginas web en Wordpress para clientes",
+        "✓ Desarrollé una mejora al sistema de inventario, automatizando tareas con Excel y Python",
+        "✓ Gestioné un equipo de 4 ayudantes, capacitándolos con los equipos de impresión, mantenimiento y diseño con Adobe Illustrator",
       ],
     },
   ],
