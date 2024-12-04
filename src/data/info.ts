@@ -32,9 +32,7 @@ export const info = {
         "✓ Instalación de software y hardware",
       ],
     },
-  ],
 
-    
     {
       name: "Elefante Printshop",
       job: "Gerente",
